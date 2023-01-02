@@ -20,7 +20,7 @@ host=$2
 port=$3
 sni=$4
 proto=$5
-
+ 
 if [ -z "$sni" ]
 then
     servername=$host
