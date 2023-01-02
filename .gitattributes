@@ -1,0 +1,2 @@
+# disable automatic handling (for canceling conversion of EOL)
+* text=false
